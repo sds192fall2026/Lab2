@@ -1,6 +1,6 @@
 # Lab2
 
-*Due Wednesday 9/18 at 9pm.*
+*Due Wednesday 9/23 at 9pm.*
 
 ## Today's Dataset
 
@@ -21,12 +21,14 @@ You will be evaluated on the completion of your lab.
 
 In this assignment, the following standards will be assessed (the number in () indicates the maximum points you can earn for a paticulrar standard for this lab): 
 
-VISUALIZATION CONTEXT (0.5)
+VISUALIZATION AESTHETICS (0.63)
 
-COMPOSING & INTERPRETING PLOTS (1)
+VISUALIZATION CONTEXT (0.63)
+
+COMPOSING & INTERPRETING PLOTS (0.63)
  
-GITHUB (0.22)
+GITHUB (0.28)
 
-AUTHORING MARKDOWN DOCUMENTS (0.7)
+AUTHORING MARKDOWN DOCUMENTS (0.83)
 
-CODE STYLING (0.3)
+CODE STYLING (0.36)
