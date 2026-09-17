@@ -1,6 +1,6 @@
 ---
 title: "SDS192 Lab 2"
-author: Section WRITE YOUR SECTION NUMBER HERE - WRITE YOUR NAME HERE
+author: WRITE YOUR NAME HERE
 output:
   html_document
 editor_options: 
@@ -55,8 +55,7 @@ ggplot(data = county_health_2021,
   labs(title = "Health Measures in the US, 2021",
        x = "Children in Poverty Measure", 
        y = "Math Scores Measure") +
-  theme_minimal() +
-  theme(legend.position = "bottom")
+  theme_minimal()
 ```
 
 Fortunately, there are some adjustments we can make to deal with overplotting. First, we can adjust the transparency of the shapes on our plot by setting the *alpha* argument in our geom function to a number between 0 and 1. We can also reduce the size of the shapes on our plot by setting the *size* argument in our geom function to a number between 0 and 1. 
